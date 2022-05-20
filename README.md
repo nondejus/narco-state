@@ -1,2 +1,0 @@
-# double-dosis
-phenomenon
